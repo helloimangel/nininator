@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+
+
+
+body {
+  	background-color: #F6E5D7;
+  	font-family: 'Roboto Mono', monospace;
+  	font-size:30px;
+  	color: #F66C55;
+}
+
+a {
+  	background-color: #F73659;
+  	font-family: 'Roboto Mono', monospace;
+  	font-size:30px;
+  	color: #F6ECE4;
+}
+
+h1 {
+  	color: #1845F6;
+}
+
+input[type=text] {
+	font-family: 'Roboto Mono', monospace;
+	border: 0px;
+	background-color:#F7EAE7;
+	width: 100%; 
+	height: 5%;
+	text-decoration: none;
+	color:#F73659;
+	font-size:30px;
+
+}
+
+#niniMensaje {
+	background-color:#F73659;
+}
+
+#titles {
+	font-family: 'Roboto Mono', monospace;
+	font-size:75px;
+	color: #1845F6;
+}
+
+#title1 {
+	font-size:75px;
+	color: #1845F6;
+}
+
+#title2 {
+  	color: #1845F6;
+  	font-size:75px;
+}
+
+#text1 {
+	font-family: 'Roboto Mono', monospace;
+  	color: #1845F6;
+  	font-size:75px;
+}
+
